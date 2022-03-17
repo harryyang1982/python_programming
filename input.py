@@ -1,3 +1,3 @@
 print("Enter your name:")
-somebody = input()
+somebody = str(input())
 print("Hi", somebody, "How are you today?")
